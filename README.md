@@ -3,8 +3,8 @@
 
 ## Dependencies
 To build project you should use Linux system and install:
-* Clang vertion 17.0.6
-* CMake vertion 3.28.1 (C++20 modules used)
+* Clang version 17.0.6
+* CMake version 3.28.1 (C++20 modules used)
 * Ninja version 1.11.1
 
 ## Building project
